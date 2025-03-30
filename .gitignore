@@ -6,7 +6,7 @@
 .idea/
 
 # Build-тексти та файли
-
+bin/
 obj/
 [Bb]uild/
 [Bb]uilds/
