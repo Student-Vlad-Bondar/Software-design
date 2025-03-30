@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vlad\\source\\repos\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\software-design\\lab-2\\designpatterns\\designpatterns\\builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vlad\\source\\repos\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\software-design\\lab-2\\designpatterns\\designpatterns\\factorymethod\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factorymethod\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vlad\\source\\repos\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\software-design\\lab-2\\designpatterns\\designpatterns\\builder\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\builder\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vlad\\source\\repos\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\software-design\\lab-2\\designpatterns\\designpatterns\\factorymethod.drawio.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factorymethod.drawio.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vlad\\source\\repos\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\software-design\\lab-2\\designpatterns\\designpatterns\\factorymethod\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factorymethod\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vlad\\source\\repos\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\software-design\\lab-2\\designpatterns\\designpatterns\\factorymethod\\isubscriptioncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC111C5-3B38-4668-AD80-157F21BEFBA5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factorymethod\\isubscriptioncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,31 +30,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICharacterBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\Builder\\ICharacterBuilder.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Builder\\ICharacterBuilder.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\Builder\\ICharacterBuilder.cs",
-              "RelativeToolTip": "DesignPatterns\\Builder\\ICharacterBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "EducationalSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\FactoryMethod\\EducationalSubscription.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\FactoryMethod\\EducationalSubscription.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\FactoryMethod\\EducationalSubscription.cs",
+              "RelativeToolTip": "DesignPatterns\\FactoryMethod\\EducationalSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:26:06.882Z"
+              "WhenOpened": "2025-03-17T14:30:51.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Director.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\Builder\\Director.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Builder\\Director.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\Builder\\Director.cs",
-              "RelativeToolTip": "DesignPatterns\\Builder\\Director.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Title": "FactoryMethod.drawio.png",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\FactoryMethod.drawio.png",
+              "RelativeDocumentMoniker": "DesignPatterns\\FactoryMethod.drawio.png",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\FactoryMethod.drawio.png",
+              "RelativeToolTip": "DesignPatterns\\FactoryMethod.drawio.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-17T13:13:03.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISubscriptionCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\FactoryMethod\\ISubscriptionCreator.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\FactoryMethod\\ISubscriptionCreator.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\FactoryMethod\\ISubscriptionCreator.cs",
+              "RelativeToolTip": "DesignPatterns\\FactoryMethod\\ISubscriptionCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:24:31.13Z"
+              "WhenOpened": "2025-03-17T13:12:22.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISubscription.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\FactoryMethod\\ISubscription.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\FactoryMethod\\ISubscription.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\FactoryMethod\\ISubscription.cs",
+              "RelativeToolTip": "DesignPatterns\\FactoryMethod\\ISubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:12:19.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +91,7 @@
               "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
               "ToolTip": "C:\\Users\\Vlad\\source\\repos\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Software-design\\lab-2\\DesignPatterns\\DesignPatterns\\Program.cs",
               "RelativeToolTip": "DesignPatterns\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDMAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T17:34:21.319Z",
               "EditorCaption": ""
