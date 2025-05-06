@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Net.Http;
 using System.Collections.Generic;
+using StructuralPatterns.BehavioralPatterns.Iterator;
 
 namespace StructuralPatterns
 {
@@ -181,15 +182,34 @@ namespace StructuralPatterns
         static void Task5()
         {
             // Завдання 5: Компонувальник
-            Console.WriteLine(">> Composite Demo:\n");
-            // Створення простого HTML елементу: <div> з внутрішніми елементами
+            Console.WriteLine("\n>> Composite Demo:\n");
+
             LightElementNode div = new LightElementNode("div");
             div.CssClasses.Add("container");
+
             LightElementNode p = new LightElementNode("p");
             p.Children.Add(new LightTextNode("This is a paragraph."));
             div.Children.Add(p);
+
+            LightElementNode span = new LightElementNode("span");
+            span.Children.Add(new LightTextNode("And this is a span."));
+            div.Children.Add(span);
+
             Console.WriteLine("OuterHTML: " + div.OuterHTML());
             Console.WriteLine("InnerHTML: " + div.InnerHTML());
+            Console.WriteLine();
+
+            // --- 1) Iterator Demo ---
+            Console.WriteLine(">> Iterator Demo:\n");
+            var root = div; // використовуємо вже створений div-приклад
+            Console.WriteLine("Depth-First Traversal:");
+            var dfs = new DepthFirstIterator(root);
+            while (dfs.HasNext())
+                Console.WriteLine("  " + dfs.Next().OuterHTML());
+            Console.WriteLine("Breadth-First Traversal:");
+            var bfs = new BreadthFirstIterator(root);
+            while (bfs.HasNext())
+                Console.WriteLine("  " + bfs.Next().OuterHTML());
             Console.WriteLine();
         }
     }
