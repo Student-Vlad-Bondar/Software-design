@@ -12,6 +12,7 @@ using StructuralPatterns.BehavioralPatterns.Iterator;
 using StructuralPatterns.BehavioralPatterns.Command;
 using StructuralPatterns.BehavioralPatterns.State;
 using StructuralPatterns.BehavioralPatterns.TemplateMethod;
+using StructuralPatterns.BehavioralPatterns.Visitor;
 
 namespace StructuralPatterns
 {
@@ -255,6 +256,13 @@ namespace StructuralPatterns
 
             var renderedHtml = myDiv.Render();
             Console.WriteLine("Rendered HTML: " + renderedHtml);
+            Console.WriteLine();
+
+            // --- 5) Visitor Demo ---
+            Console.WriteLine(">> Visitor Demo:\n");
+            var statsVisitor = new StatsVisitor();
+            div.Accept(statsVisitor);
+            statsVisitor.PrintStatistics();
             Console.WriteLine();
         }
     }

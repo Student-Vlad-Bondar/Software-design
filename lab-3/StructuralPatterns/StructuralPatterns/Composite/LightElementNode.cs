@@ -1,4 +1,5 @@
 ﻿using StructuralPatterns.BehavioralPatterns.State;
+using StructuralPatterns.BehavioralPatterns.Visitor;
 using System.Text;
 
 namespace StructuralPatterns.Composite
@@ -51,6 +52,13 @@ namespace StructuralPatterns.Composite
         {
             State = newState;
             State.Handle(this);
+        }
+
+        public override void Accept(IVisitor visitor)
+        {
+            visitor.Visit(this);
+            foreach (var c in Children)
+                c.Accept(visitor);
         }
     }
 }
