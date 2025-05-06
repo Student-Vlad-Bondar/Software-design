@@ -9,6 +9,7 @@ using System.Threading;
 using System.Net.Http;
 using System.Collections.Generic;
 using StructuralPatterns.BehavioralPatterns.Iterator;
+using StructuralPatterns.BehavioralPatterns.Command;
 
 namespace StructuralPatterns
 {
@@ -210,6 +211,27 @@ namespace StructuralPatterns
             var bfs = new BreadthFirstIterator(root);
             while (bfs.HasNext())
                 Console.WriteLine("  " + bfs.Next().OuterHTML());
+            Console.WriteLine();
+
+            // --- 2) Command Demo ---
+            Console.WriteLine(">> Command Demo:\n");
+            var invoker = new CommandInvoker();
+            var newP = new LightElementNode("p");
+            var text = new LightTextNode("Командний рядок додано!");
+            var addCmd = new AddChildCommand(div, newP);
+            var addTextCmd = new AddChildCommand(newP, text);
+            invoker.ExecuteCommand(addCmd);
+            invoker.ExecuteCommand(addTextCmd);
+            Console.WriteLine("After Execute:");
+            Console.WriteLine(div.OuterHTML());
+            invoker.UndoLast();  // прибираємо текст
+            invoker.UndoLast();  // прибираємо <p>
+            Console.WriteLine("After Undo:");
+            Console.WriteLine(div.OuterHTML());
+            invoker.RedoLast();  // повертаємо <p>
+            invoker.RedoLast();  // повертаємо текст
+            Console.WriteLine("After Redo:");
+            Console.WriteLine(div.OuterHTML());
             Console.WriteLine();
         }
     }
