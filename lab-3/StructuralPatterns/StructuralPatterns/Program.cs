@@ -11,6 +11,7 @@ using System.Collections.Generic;
 using StructuralPatterns.BehavioralPatterns.Iterator;
 using StructuralPatterns.BehavioralPatterns.Command;
 using StructuralPatterns.BehavioralPatterns.State;
+using StructuralPatterns.BehavioralPatterns.TemplateMethod;
 
 namespace StructuralPatterns
 {
@@ -241,6 +242,19 @@ namespace StructuralPatterns
             Console.WriteLine($"Initial state: {stateDiv.State.Name}");
             stateDiv.TransitionTo(new InsertedState());
             stateDiv.TransitionTo(new RemovedState());
+            Console.WriteLine();
+
+            // --- 4) Template Method Demo ---
+            Console.WriteLine(">> Template Method Demo:\n");
+            var myDiv = new MyDiv();
+            // додаємо класи й стилі, щоб спрацювали відповідні хуки:
+            myDiv.CssClasses.Add("highlight");
+            myDiv.CssClasses.Add("shadow");
+            myDiv.Styles.Add("background-color", "lightblue");
+            myDiv.Styles.Add("border", "1px solid black");
+
+            var renderedHtml = myDiv.Render();
+            Console.WriteLine("Rendered HTML: " + renderedHtml);
             Console.WriteLine();
         }
     }
