@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using StructuralPatterns.BehavioralPatterns.State;
+using System.Text;
 
 namespace StructuralPatterns.Composite
 {
@@ -7,12 +8,14 @@ namespace StructuralPatterns.Composite
         public string TagName { get; set; }
         public List<string> CssClasses { get; set; } = new List<string>();
         public List<LightNode> Children { get; set; } = new List<LightNode>();
+        public INodeState State { get; private set; } = new CreatedState();
         public bool SelfClosing { get; set; } = false;
 
         public LightElementNode(string tagName, bool selfClosing = false)
         {
             TagName = tagName;
             SelfClosing = selfClosing;
+            State.Handle(this);
         }
 
         public override string OuterHTML()
@@ -42,6 +45,12 @@ namespace StructuralPatterns.Composite
                 sb.Append(child.OuterHTML());
             }
             return sb.ToString();
+        }
+
+        public void TransitionTo(INodeState newState)
+        {
+            State = newState;
+            State.Handle(this);
         }
     }
 }
