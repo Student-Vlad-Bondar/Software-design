@@ -124,3 +124,6 @@
 [LOG] File log message.
 [WARN] File error message.
 [ERROR] File warning message.
+[LOG] File log message.
+[WARN] File error message.
+[ERROR] File warning message.

@@ -10,6 +10,7 @@ using System.Net.Http;
 using System.Collections.Generic;
 using StructuralPatterns.BehavioralPatterns.Iterator;
 using StructuralPatterns.BehavioralPatterns.Command;
+using StructuralPatterns.BehavioralPatterns.State;
 
 namespace StructuralPatterns
 {
@@ -232,6 +233,14 @@ namespace StructuralPatterns
             invoker.RedoLast();  // повертаємо текст
             Console.WriteLine("After Redo:");
             Console.WriteLine(div.OuterHTML());
+            Console.WriteLine();
+
+            // --- 3) State Demo ---
+            Console.WriteLine(">> State Demo:\n");
+            var stateDiv = new LightElementNode("span");
+            Console.WriteLine($"Initial state: {stateDiv.State.Name}");
+            stateDiv.TransitionTo(new InsertedState());
+            stateDiv.TransitionTo(new RemovedState());
             Console.WriteLine();
         }
     }
